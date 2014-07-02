@@ -1,0 +1,21 @@
+{
+	"name": "pugstudios",
+	"description": "Pug Studios, Inc.",
+	"keywords": ["pug studios"],
+	"license": "MIT",
+	"require": {
+		"laravel/framework": "4.2.*"
+	},
+	"autoload": {
+		"classmap": []
+	},
+	"scripts": {
+		"post-install-cmd": [],
+		"post-update-cmd": [],
+		"post-create-project-cmd": []
+	},
+	"config": {
+		"preferred-install": "dist"
+	},
+	"minimum-stability": "stable"
+}
